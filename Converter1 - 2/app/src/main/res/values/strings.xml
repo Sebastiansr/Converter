@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Converter1</string>
+    <string-array name="imperial">
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+    </string-array>
+    <string-array name="metric">
+        <item>Centimetre</item>
+        <item>Decimetre</item>
+        <item>Metre</item>
+    </string-array>
+    <string name="Hint">0</string>
+    <string name="Metre">m</string>
+    <string name="Decimetre">dm</string>
+    <string name="Centimetre">cm</string>
+</resources>
